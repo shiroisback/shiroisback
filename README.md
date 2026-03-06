@@ -51,5 +51,4 @@ Au-delà de la recherche de vulnérabilités connues (CVE), mon approche privil�
 
 ### Contact
 
-- **Email** : lsecfr@outlook.fr
 - **Discord** : shiroisback
