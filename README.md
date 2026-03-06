@@ -22,7 +22,7 @@ Au-delà de la recherche de vulnérabilités connues (CVE), mon approche privil�
 
 ---
 
-### Arsenal technologique
+### Stack Technique
 
 #### Scripting & Systems
 <p align="left">
