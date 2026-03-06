@@ -3,7 +3,9 @@
 </div>
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/4136557.png" alt="TryHackMe Stats" />
+  <a href="https://tryhackme.com/p/shiroisback" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=CC0000" alt="TryHackMe Profile" />
+  </a>
 </p>
 
 ---
@@ -37,8 +39,8 @@ Junior Pentester focalisé sur la sécurité offensive et le scripting. Expertis
 ### Statistiques GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO&show_icons=true&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_PSEUDO&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shiroisback&show_icons=true&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiroisback&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true" />
 </p>
 
 ---
